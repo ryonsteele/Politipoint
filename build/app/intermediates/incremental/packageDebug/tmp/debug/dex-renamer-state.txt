@@ -1,0 +1,4 @@
+#Mon Oct 28 16:28:50 EDT 2019
+base.0=/Users/jeffery.steele/MyRepo/Politipoint/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
